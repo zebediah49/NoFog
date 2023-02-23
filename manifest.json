@@ -1,0 +1,9 @@
+{
+	"name": "No_Fog",
+	"version_number": "0.1.0",
+	"website_url": "https://github.com/zebediah49/NoFog",
+	"description": "Removes Fog",
+	"dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.1901"
+	]
+}
